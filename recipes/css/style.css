@@ -1,0 +1,39 @@
+body {
+    background-color: bisque;
+}
+
+h1 { 
+    text-align: center;
+}
+
+.fried_chicken_img {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.description { 
+    display: block;
+    margin: 0 auto;
+    width: 45%;
+}
+
+.ingredients {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.recipe { 
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.back_home {
+    text-align: center;
+}
